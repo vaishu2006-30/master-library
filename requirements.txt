@@ -1,0 +1,1 @@
+git+https://github.com/vaishu2006-30/smaller-library.git@main
